@@ -15,7 +15,7 @@ Hey there, I’m Rahul Sharma! 👋<br>	•	🎓 Pursuing my M.Sc. in Data & Com
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahul2227&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes I resonate with
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
